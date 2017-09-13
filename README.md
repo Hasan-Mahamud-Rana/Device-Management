@@ -1,1 +1,1 @@
-# Device Managemnet
+# Device-Management
